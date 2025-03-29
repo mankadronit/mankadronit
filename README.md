@@ -15,8 +15,7 @@ I’m **Ronit Mankad**, a **Data Engineer** currently working at Arcadia.io. I s
 - **Processing**: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, Trino
 - **Databases and Warehouses**: Snowflake, Redshift, BigQuery, PostgreSQL, MySQL, CassandraDB
 - **Cloud Platforms**: AWS, GCP
-
-### **Data Visualization & Analytics**: Looker, Tableau, Amazon QuickSight, Grafana, Streamlit
+- **Data Visualization & Analytics**: Looker, Tableau, Amazon QuickSight, Grafana, Streamlit
 
 ---
 
