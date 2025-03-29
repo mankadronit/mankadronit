@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Well Hello There! ✨  
 
-<!--
-**mankadronit/mankadronit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Ronit Mankad**, a **Data Engineer** currently working at Arcadia.io. I specialize in building fault tolerant, idempotent and scalable data pipelines.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/selenge-tulga/](https://www.linkedin.com/in/mankadronit/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mankadronit.rm@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies  
+
+### **Programming Languages**  : Python, SQL, Scala
+
+### **Data Engineering**  
+- **Processing**: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, Trino
+- **Databases and Warehouses**: Snowflake, Redshift, BigQuery, PostgreSQL, MySQL, CassandraDB
+- **Cloud Platforms**: AWS, GCP
+
+### **Data Visualization & Analytics**: Looker, Tableau, Amazon QuickSight, Grafana, Streamlit
+
+---
+
+## 🎓 Certifications  
+
+- **AWS Certified Data Engineer – Associate**
+
+---
