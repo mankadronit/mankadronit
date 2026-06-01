@@ -2,7 +2,7 @@
 
 Analytics engineer at CarGurus. I think most data problems are trust problems, so I
 spend my time on the parts that make data believable - tests, contracts, clean lineage -
-mostly in **dbt and SQL on Snowflake**. I'd rather ship a model that's correct than one
+mostly in dbt and SQL on Snowflake. I'd rather ship a model that's correct than one
 that's clever.
 
 **Currently**
