@@ -1,26 +1,27 @@
-## 👋 Well Hello There! 
+### Ronit Mankad
 
-I’m **Ronit Mankad**, a **Data Engineer** currently working at Arcadia.io. I specialize in building fault tolerant, idempotent and scalable data pipelines.
+Analytics engineer at CarGurus. I think most data problems are trust problems, so I
+spend my time on the parts that make data believable — tests, contracts, clean lineage —
+mostly in **dbt and SQL on Snowflake**. I'd rather ship a model that's correct than one
+that's clever.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/selenge-tulga/](https://www.linkedin.com/in/mankadronit/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mankadronit.rm@gmail.com)
+**Currently**
+- Building the analytics-engineering layer (dbt + Snowflake) at CarGurus.
+- Putting up a public, fully-runnable **dbt + DuckDB** project on data I actually care about — so the work isn't only visible behind a corporate login.
+- Teaching myself **Rust** via [Advent of Code 2025](https://github.com/mankadronit/advent-of-code-2025) — partly curiosity, partly to stop treating "the fast layer" as someone else's job.
 
----
+**Stack**
+- **Modeling / transform:** dbt, SQL, dbt tests & contracts
+- **Warehouse:** Snowflake (also Redshift, BigQuery)
+- **Pipelines:** Airflow, AWS Glue + Spark, Fivetran
+- **Cloud / lang:** AWS (S3, Glue, Athena, Redshift), Python — and Rust on the side
+- **BI:** Looker, Streamlit
 
-## 🛠️ Skills & Technologies  
+**Featured**
+- **[dotfiles](https://github.com/mankadronit/dotfiles)** — my macOS dev environment (fish, Neovim, tmux, Ghostty, starship).
+- **[advent-of-code-2025](https://github.com/mankadronit/advent-of-code-2025)** — learning Rust the hard way, one puzzle at a time.
 
-### **Programming Languages**  : Python, SQL, Scala
+Off the clock I'm usually overengineering a hobby project, gaming, or making a latte
+that's better than it needs to be — with a sci-fi novel within reach.
 
-### **Data Engineering**  
-- **Processing**: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, Trino
-- **Databases and Warehouses**: Snowflake, Redshift, BigQuery, PostgreSQL, MySQL, CassandraDB
-- **Cloud Platforms**: AWS, GCP
-- **Data Visualization & Analytics**: Looker, Tableau, Amazon QuickSight, Grafana, Streamlit
-
----
-
-## 🎓 Certifications  
-
-- **AWS Certified Data Engineer – Associate**
-
----
+[LinkedIn](https://www.linkedin.com/in/mankadronit/) · [mankadronit.rm@gmail.com](mailto:mankadronit.rm@gmail.com)
